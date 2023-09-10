@@ -29,7 +29,7 @@ const quizData = [
     b: "The brain",
     c: "The heart",
     d: "Nerves",
-    correct: "b",
+    correct: "a",
 },
     {
         question: "A device used in electrocardiography :",
